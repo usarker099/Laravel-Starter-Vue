@@ -82,6 +82,9 @@ const isActive = (href) => {
         </Link>
       </template>
     </li>
+    <li>
+    <Link href="/dashboard2" class="text-xs xs:text-sm block py-1">Dashboard2</Link>
+    </li>
 
     <li class="mt-4 pt-2 border-t border-base-300">
       <details :open="false">
@@ -89,6 +92,7 @@ const isActive = (href) => {
           <span class="flex items-center">Settings</span>
         </summary>
         <ul class="p-2 bg-base-100 rounded-box ml-4">
+
           <li>
             <details :open="false">
               <summary class="text-xs xs:text-sm cursor-pointer">
