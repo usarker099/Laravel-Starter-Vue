@@ -59,7 +59,8 @@ A modern admin dashboard built with Laravel, Vue.js, Inertia, DaisyUI, and Spati
 
 6. Build assets:
    ```
-   npm run dev
+   - if you don't see exact changes in project, you might need to build first: npm run build
+   - when building your project run: npm run dev  to see live changes.
    ```
 7. Import Project Database: Database file is included in project starter.sql
    ```
