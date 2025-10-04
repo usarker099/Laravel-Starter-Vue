@@ -2,7 +2,8 @@
 # Laravel Starter - Vue - Boilerplate
 
 A modern admin dashboard built with Laravel, Vue.js, Inertia, DaisyUI, and Spatie Permission for role-based access control. To Speed Up your project, Download and dive into Development.
-
+<img width="1257" height="931" alt="screenshot20251005002751" src="https://github.com/user-attachments/assets/4771d096-1342-4516-aed5-084d2578f78e" />
+<img width="540" height="457" alt="screenshot20251005002942" src="https://github.com/user-attachments/assets/0fdd44a3-d8c1-4f59-9e98-a618709eb561" />
 ## Features - Out Of box you are getting:
 
 - User authentication and management
